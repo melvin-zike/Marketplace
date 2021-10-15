@@ -1,0 +1,13 @@
+.feed{
+    flex:4.5;
+    /* background-color: white; */
+    margin-top: 10px;
+}
+
+.feedWrapper{
+    padding: 20px;
+}
+
+.heroImg{
+ border-radius: 10px;
+}
